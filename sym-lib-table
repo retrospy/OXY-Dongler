@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Micro_AGB_Dongle-rescue")(type "KiCad")(uri "${KIPRJMOD}/Micro_AGB_Dongle-rescue.kicad_sym")(options "")(descr ""))
+)
